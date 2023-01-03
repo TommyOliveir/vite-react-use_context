@@ -6,6 +6,7 @@ import Button from "./Button"
 function App() {
     return (
         <div>
+            <h1>UseContext</h1>
             <Header />
             <Button />
         </div>
